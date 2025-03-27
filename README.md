@@ -15,11 +15,13 @@
 ## DESCRIPTION:
 
 **Project Overview**
+
 This project implements Text Generation using GPT-2, a powerful transformer-based language model developed by OpenAI. GPT-2 is capable of generating coherent, contextually relevant text based on a given input prompt. The project utilizes Gradio to create an interactive web interface, allowing users to enter a text prompt and generate AI-powered completions in real time.
 
 By leveraging pre-trained models from Hugging Face’s Transformers library, the project demonstrates how deep learning can be used for natural language processing (NLP) tasks such as creative writing, dialogue generation, and content automation. Users can fine-tune parameters to control the length, randomness, and quality of the generated text.
 
 **Tools & Libraries Used**
+
 1. Gradio – Provides an easy-to-use web interface for real-time text generation.
 
 2. Transformers (Hugging Face) – Offers access to pre-trained GPT-2 models for text generation.
@@ -31,6 +33,7 @@ By leveraging pre-trained models from Hugging Face’s Transformers library, the
 5. GPT-2 Tokenizer (GPT2Tokenizer) – Tokenizes input text into numerical representations for the model.
 
 **Applications of Text Generation**
+
 GPT-2’s text generation capabilities have wide-ranging applications, including:
 
 1. Creative Writing & Storytelling – Assists writers in generating poetry, short stories, or novel ideas.
@@ -45,6 +48,7 @@ GPT-2’s text generation capabilities have wide-ranging applications, including
 
 
 **How It Works**
+
 The text generation process follows these key steps:
 
 1️. Load the Pre-trained GPT-2 Model
