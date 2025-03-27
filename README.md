@@ -1,16 +1,16 @@
 # GENERATIVE-TEXT-MODEL
 
-Company: CODTECH IT SOLUTIONS
+**Company**: CODTECH IT SOLUTIONS
 
-NAME : SAMUDRALA SAI MRUDHULA
+**NAME** : SAMUDRALA SAI MRUDHULA
 
-INTERN ID : CT120FHK
+**INTERN ID** : CT120FHK
 
-DOMAIN : ARTIFICIAL INTELLIGENCE
+**DOMAIN** : ARTIFICIAL INTELLIGENCE
 
-DURATION : 8 WEEKS
+**DURATION** : 8 WEEKS
 
-MENTOR : NEELA SANTHOSH
+**MENTOR** : NEELA SANTHOSH
 
 ## DESCRIPTION:
 
@@ -71,4 +71,4 @@ The output is displayed in the Gradio interface, allowing users to interact and 
 
 ## OUTPUT
 
-
+![Image](https://github.com/user-attachments/assets/247bb49d-7e94-44ec-b1ea-2a2a48947a7c)
